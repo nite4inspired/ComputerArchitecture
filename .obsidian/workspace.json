@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCIE92/Problem Set 0.md",
+                "file": "CSCIE93/Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problem Set 0"
+              "title": "Roadmap"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCIE92/Problem Set 0.md",
+                "file": "CSCIE93/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Problem Set 0"
+              "title": "Backlinks for Roadmap"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCIE92/Problem Set 0.md",
+                "file": "CSCIE93/Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Problem Set 0"
+              "title": "Outgoing links from Roadmap"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCIE92/Problem Set 0.md",
+                "file": "CSCIE93/Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Problem Set 0"
+              "title": "Outline of Roadmap"
             }
           }
         ]
@@ -169,21 +169,23 @@
   },
   "active": "7574be947e7aadc4",
   "lastOpenFiles": [
-    "Course Websites.md",
+    "6.5900 Computer System Architecture Fall 2024.md",
+    "CSCIE93/Roadmap.md",
+    "vmls.pdf",
+    "CSCIE93",
+    "CSCIE92/Roadmap.md",
     "CSCIE92/Problem Set 0.md",
+    "CSCIE92/Modern Operating Systems 5e 5th Edition.pdf",
+    "Course Websites.md",
     "CSCIE92/C Reference Manual Fifth Edition.pdf",
     "CSCIE92/01-Review of the C Programming Language for E-92.pdf",
     "CSCIE92/01 Review of the.md",
     "CSCIE92",
-    "6.5900 Computer System Architecture Fall 2024.md",
     "6.5900/Lectures/L04handout.pdf",
     "6.5900/Lectures/L03handout.pdf",
     "6.5900/Lectures/L02handout.pdf",
     "6.5900/Lectures/L01handout.pdf",
     "6.5900/Recitations/R09-GPU Puzzles.md",
-    "vmls.pdf",
-    "6.5900/Quiz1/ProblemSetHandouts/handout9-bigmips.pdf",
-    "6.5900/Labs/lab4.pdf",
     "6.5900/Recitations/GPU-Puzzles/robot.png",
     "6.5900/Recitations/GPU-Puzzles/cuda.png",
     "6.5900/Recitations/GPU-Puzzles/README.md",
